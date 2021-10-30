@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zameerzz&langs_count=5&theme=tokyonight)]()
+
 ![Zameeruddin Mohammed's github stats](https://github-readme-stats.vercel.app/api?username=zameerzz&count_private=true&show_icons=true&theme=radical)
 
