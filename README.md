@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Zameer Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=zameerzzra&count_private=true)
+![Zameer Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=zameerzzr&count_private=true)
 
 
 
