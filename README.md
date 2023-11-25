@@ -1,6 +1,10 @@
 ### Hi there 👋
 🌱 I’m currently learning python
+
 👯 I’m looking to collaborate on Full stack developer team, Testing team
+
+⚡ Fun fact: Brain "power up" through coding
+
 <!--
 **Zameerzz/zameerzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +16,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
-⚡ Fun fact: Brain "power up" through coding
 -->
 
 ![Zameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=zameerzz&show_icons=true&theme=radical)
