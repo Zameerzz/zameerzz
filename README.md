@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: Brain "power up" through coding
 -->
 
-![Zameer Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=zameerzz&count_private=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zameerzz&show_icons=true&theme=radical)
 
 
 
