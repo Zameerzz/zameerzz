@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-![Zameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=zameerzz&show_icons=true&bg_color=00000000)
-
 
