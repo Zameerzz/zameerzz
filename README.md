@@ -1,5 +1,4 @@
 ### Hi there 👋
-🌱 I’m currently learning python, R
 
 👯 I’m looking to collaborate on Full stack developer team, Testing team
 
